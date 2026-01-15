@@ -26,5 +26,5 @@ terraform {
 #}
 
 resource "null_resource" "example"{
- count = 5
+ count = 6
 }
